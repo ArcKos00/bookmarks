@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "22326cf8797a3d1f",
+        "id": "b929fadca015fa84",
         "type": "tabs",
         "children": [
           {
-            "id": "8e614bcf85718321",
+            "id": "69bed68aa9df5a2b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -172,12 +172,14 @@
       "command-palette:Відкрити меню команд": false
     }
   },
-  "active": "136468b3b71b1b29",
+  "active": "69bed68aa9df5a2b",
   "lastOpenFiles": [
+    "Проекти/Військова служба/Без назви.md",
+    "Без назви.md",
+    "Проекти/Військова служба",
     "Синхронізація obsidian через github.md",
-    "Без назви",
+    "Проекти",
     "ff.md",
-    "New memory.md",
-    "Без назви.md"
+    "New memory.md"
   ]
 }
