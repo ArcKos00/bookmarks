@@ -1,3 +1,5 @@
+https://chatgpt.com/share/68a09f86-138c-8011-8cb8-9db5c9287639
+
 1. Модель
 ```
 public class Post
