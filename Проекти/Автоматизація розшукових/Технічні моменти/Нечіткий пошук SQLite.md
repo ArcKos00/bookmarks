@@ -39,10 +39,10 @@ public class AppDbContext : DbContext
 ```
 protected override void Up(MigrationBuilder migrationBuilder)
 {
-    // FTS-таблиця, яка "прив’язана" до Posts
+    // Таблиця FTS5 з триґрамами
     migrationBuilder.Sql(@"
         CREATE VIRTUAL TABLE FtsPosts
-        USING fts5(Content, content='Posts', content_rowid='Id');
+        USING fts5(Content, content='Posts', content_rowid='Id', tokenize='trigram');
     ");
 
     // Тригери для синхронізації
