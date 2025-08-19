@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Рапорт"
             }
+          },
+          {
+            "id": "d25a1b3b920b3b9e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,6 +180,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Відкрити провідник файлів": false,
       "graph:Граф": false,
@@ -176,7 +190,7 @@
       "command-palette:Відкрити меню команд": false
     }
   },
-  "active": "136468b3b71b1b29",
+  "active": "d25a1b3b920b3b9e",
   "lastOpenFiles": [
     "Книжки.md",
     "Рапорт.md",
