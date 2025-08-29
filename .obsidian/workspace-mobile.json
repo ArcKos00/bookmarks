@@ -141,7 +141,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Рапорт адр рекс.md",
+            "file": "Рапорт.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -186,6 +186,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
