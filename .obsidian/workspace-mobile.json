@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Рапорт"
             }
+          },
+          {
+            "id": "60f72350197b11db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сзч.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сзч"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -196,16 +210,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3a6bad05867204f",
+  "active": "60f72350197b11db",
   "lastOpenFiles": [
+    "Рапорт.md",
+    "Сзч.md",
+    "/Рапорт для виїзду з гарнізону ЛЕКЛЕРК.docx",
     "Книжки.md",
     "~WRL2931.tmp",
     "/~WRL2931.tmp",
     "Рапорт адр рекс.md",
     "Рапорт для виїзду з гарнізону ЛЕКЛЕРК.docx",
-    "Рапорт.md",
     "/Рапорт.md",
-    "/Рапорт для виїзду з гарнізону ЛЕКЛЕРК.docx",
     "Фільми.md",
     "Архів/Аніме.md",
     "Архів/Серіали.md",
