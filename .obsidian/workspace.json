@@ -163,14 +163,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Відкрити провідник файлів": false,
       "graph:Граф": false,
       "canvas:Створити нове полотно": false,
       "daily-notes:Сьогоднішня нотатка": false,
       "templates:Вставити шаблон": false,
-      "command-palette:Відкрити меню команд": false
+      "command-palette:Відкрити меню команд": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "a55583f17c957c63",
