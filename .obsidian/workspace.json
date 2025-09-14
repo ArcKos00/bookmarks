@@ -11,10 +11,14 @@
             "id": "eeeba35e0cfbc1f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Задачі.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Нова вкладка"
+              "title": "Задачі"
             }
           }
         ]
@@ -172,8 +176,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a55583f17c957c63",
+  "active": "eeeba35e0cfbc1f1",
   "lastOpenFiles": [
+    "Книжки.md",
     "~$порт для виїзду з гарнізону ЛЕКЛЕРК.docx",
     "Рапорт.md",
     "~WRD3045.tmp",
@@ -186,7 +191,6 @@
     "~WRD1432.tmp",
     "~WRL2931.tmp",
     "~WRD2206.tmp",
-    "Книжки.md",
     "Проекти/Автоматизація розшукових/Технічні моменти/Нечіткий пошук засобами SQLite.md",
     "Проекти/Автоматизація розшукових/Технічні моменти/Технічні моменти.md",
     "Проекти/Автоматизація розшукових/Технічні моменти/Implementing Fuzzy Search in C .NET with the FuzzyString Library.md",
