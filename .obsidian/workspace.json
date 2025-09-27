@@ -11,14 +11,10 @@
             "id": "eeeba35e0cfbc1f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Задачі.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Задачі"
+              "title": "Нова вкладка"
             }
           }
         ]
@@ -179,6 +175,7 @@
   },
   "active": "eeeba35e0cfbc1f1",
   "lastOpenFiles": [
+    "Задачі.md",
     "Без назви.md",
     "Книжки.md",
     "~$порт для виїзду з гарнізону ЛЕКЛЕРК.docx",
