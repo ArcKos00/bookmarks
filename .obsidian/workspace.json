@@ -164,17 +164,20 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Відкрити провідник файлів": false,
       "graph:Граф": false,
       "canvas:Створити нове полотно": false,
       "daily-notes:Сьогоднішня нотатка": false,
       "templates:Вставити шаблон": false,
-      "command-palette:Відкрити меню команд": false
+      "command-palette:Відкрити меню команд": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "a55583f17c957c63",
   "lastOpenFiles": [
+    "Без назви.md",
+    "Задачі.md",
+    "Книжки.md",
     "~$порт для виїзду з гарнізону ЛЕКЛЕРК.docx",
     "Рапорт.md",
     "~WRD3045.tmp",
@@ -187,7 +190,6 @@
     "~WRD1432.tmp",
     "~WRL2931.tmp",
     "~WRD2206.tmp",
-    "Книжки.md",
     "Проекти/Автоматизація розшукових/Технічні моменти/Нечіткий пошук засобами SQLite.md",
     "Проекти/Автоматизація розшукових/Технічні моменти/Технічні моменти.md",
     "Проекти/Автоматизація розшукових/Технічні моменти/Implementing Fuzzy Search in C .NET with the FuzzyString Library.md",
@@ -203,7 +205,6 @@
     "Проекти/Автоматизація розшукових/Технічні моменти/Виконайте нечіткий пошук за допомогою C.md",
     "Проекти/Автоматизація розшукових/таблиці/ком взводу.md",
     "Проекти/Автоматизація розшукових/таблиці/комбат.md",
-    "Без назви.md",
     "ff.md"
   ]
 }
