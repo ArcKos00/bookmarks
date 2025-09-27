@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "583e6b4abe91df59",
+        "id": "aba4c67a8da9eaba",
         "type": "tabs",
         "children": [
           {
-            "id": "eeeba35e0cfbc1f1",
+            "id": "e73d6d0e9e554d71",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,11 +177,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eeeba35e0cfbc1f1",
+  "active": "e73d6d0e9e554d71",
   "lastOpenFiles": [
+    "^0b650e.md",
+    "Проекти/Мпс/Ключові моменти.md",
     "Проекти/Мпс/Ідея.md",
     "Фільми.md",
-    "Проекти/Мпс/Ключові моменти.md",
     "Проекти/Мпс",
     "Без назви.md",
     "Задачі.md",
