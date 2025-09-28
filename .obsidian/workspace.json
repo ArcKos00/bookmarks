@@ -174,8 +174,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bae3579331ea36dd",
+  "active": "136468b3b71b1b29",
   "lastOpenFiles": [
+    "Проекти/Мпс/старий мпс/Тригери/MPS.TRG_EVENT_HANDLER_IU.sql",
+    "Проекти/Мпс/старий мпс/Тригери/MPS.TRG_TMP_RESULT.sql",
+    "Проекти/Мпс/старий мпс/Тригери/MPS.TRG_LOG_EVENT_UPLOAD_UK.sql",
+    "Проекти/Мпс/старий мпс/Тригери/MPS.TRG_LOG_EVENT_TYPE_UK.sql",
+    "Проекти/Мпс/старий мпс/Тригери/MPS.TRG_LOG_EVENT_PROCESSING_UK.sql",
+    "Проекти/Мпс/старий мпс/Тригери/MPS.TRG_LOG_EVENT_PROCESS_REQUEST_UK.sql",
+    "Проекти/Мпс/старий мпс/Тригери/MPS.TRG_LOG_EVENT_OWNER_UK.sql",
+    "Проекти/Мпс/старий мпс/Тригери/MPS.TRG_LOG_EVENT_HANDLER_UK.sql",
+    "Проекти/Мпс/старий мпс/Тригери/MPS.TRG_EVENT_UPLOAD_UK.sql",
+    "Проекти/Мпс/старий мпс/Тригери/MPS.TRG_EVENT_UPLOAD_STATUS_UK.sql",
+    "Проекти/Мпс/старий мпс/Тригери/MPS.TRG_EVENT_UPLOAD_IU.sql",
     "Проекти/Мпс/старий мпс/Індекси/SenderSystem.md",
     "Проекти/Мпс/старий мпс/Індекси/EventType.md",
     "Проекти/Мпс/старий мпс/Індекси/EventParameters.md",
@@ -183,8 +194,6 @@
     "Проекти/Мпс/старий мпс/Таблиці/DeliveryType.md",
     "Проекти/Мпс/Етапи.md",
     "Проекти/Мпс/старий мпс/Таблиці/TempInserted.md",
-    "Проекти/Мпс/старий мпс/Таблиці",
-    "Проекти/Мпс/старий мпс/Індекси",
     "Проекти/Мпс/старий мпс/Таблиці/TempExternalResult.md",
     "Проекти/Мпс/старий мпс/Таблиці/TempEventProcessResult.md",
     "Проекти/Мпс/старий мпс/Таблиці/TempEventProcessEvent.md",
@@ -202,15 +211,6 @@
     "Проекти/Мпс/старий мпс/Таблиці/EventUploadStatus.md",
     "Проекти/Мпс/старий мпс/Таблиці/EventType.md",
     "Проекти/Мпс/старий мпс/Таблиці/EventProcessStatusRequest.md",
-    "Проекти/Мпс/старий мпс/Таблиці/EventProcessStatus.md",
-    "Проекти/Мпс/старий мпс/Таблиці/EventParameters.md",
-    "Проекти/Мпс/старий мпс",
-    "Проекти/Мпс",
-    "~$порт для виїзду з гарнізону ЛЕКЛЕРК.docx",
-    "~WRD3045.tmp",
-    "~WRD2964.tmp",
-    "~WRL3771.tmp",
-    "~WRD3752.tmp",
-    "~WRL0003.tmp"
+    "Проекти/Мпс/старий мпс/Таблиці/EventProcessStatus.md"
   ]
 }
