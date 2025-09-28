@@ -1,0 +1,19 @@
+CREATE OR REPLACE TRIGGER MPS.trg_LOG_EVENT_OWNER_uk
+
+  BEFORE INSERT ON MPS.LOG_EVENT_OWNER
+
+  FOR EACH ROW
+
+BEGIN
+
+  IF :new.id IS NULL THEN
+
+    :new.id := MPS.seq_LOG_EVENT_OWNER.nextval;
+
+  END IF;
+
+  
+
+END;
+
+/

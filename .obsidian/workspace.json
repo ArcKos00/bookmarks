@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проекти/Мпс/старий мпс/Тригери/Без назви.md",
+                "file": "Проекти/Мпс/Ключові моменти.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без назви"
+              "title": "Ключові моменти"
             }
           }
         ]
@@ -180,8 +180,15 @@
   },
   "active": "3b9a8930acb4213f",
   "lastOpenFiles": [
+    "Проекти/Мпс/Ідея.md",
+    "Проекти/Мпс/Етапи.md",
+    "Проекти/Мпс/старий мпс/Тригери/TriggerTempResult.md",
+    "Проекти/Мпс/старий мпс/Тригери/TriggerLogEventUploadUK.md",
+    "Проекти/Мпс/старий мпс/Тригери/TriggerLogEventTypeUK.md",
+    "Проекти/Мпс/старий мпс/Тригери/TriggerLogEventProcessingUK.md",
+    "Проекти/Мпс/старий мпс/Тригери/TriggerLogEventProcessRequestUK.md",
+    "Проекти/Мпс/старий мпс/Тригери/TriggerLogEventOwnerUK.md",
     "Проекти/Мпс/старий мпс/Тригери/TriggerLogEventHandlerUK.md",
-    "Проекти/Мпс/старий мпс/Тригери/Без назви.md",
     "Проекти/Мпс/старий мпс/Тригери/TriggerEventUploadUK.md",
     "Проекти/Мпс/старий мпс/Тригери/TriggerEventUploadStatusUK.md",
     "Проекти/Мпс/старий мпс/Тригери/TriggerEventUploadIU.md",
@@ -208,13 +215,6 @@
     "Проекти/Мпс/старий мпс/Тригери/MPS.TRG_LOG_EVENT_OWNER_UK.sql",
     "Проекти/Мпс/старий мпс/Тригери/MPS.TRG_LOG_EVENT_HANDLER_UK.sql",
     "Проекти/Мпс/старий мпс/Тригери/MPS.TRG_EVENT_UPLOAD_UK.sql",
-    "Проекти/Мпс/старий мпс/Індекси/SenderSystem.md",
-    "Проекти/Мпс/старий мпс/Індекси/EventType.md",
-    "Проекти/Мпс/старий мпс/Індекси/EventParameters.md",
-    "Проекти/Мпс/старий мпс/Індекси/EventOwner.md",
-    "Проекти/Мпс/старий мпс/Таблиці/DeliveryType.md",
-    "Проекти/Мпс/Етапи.md",
-    "Проекти/Мпс/старий мпс/Таблиці/TempInserted.md",
-    "Проекти/Мпс/старий мпс/Таблиці/TempExternalResult.md"
+    "Проекти/Мпс/старий мпс/Індекси/SenderSystem.md"
   ]
 }
