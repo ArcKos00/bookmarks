@@ -1,3 +1,4 @@
+```
 CREATE OR REPLACE TRIGGER MPS.trg_event_upload_status_uk
 
   BEFORE INSERT ON MPS.event_upload_status
@@ -17,3 +18,4 @@ BEGIN
 END;
 
 /
+```

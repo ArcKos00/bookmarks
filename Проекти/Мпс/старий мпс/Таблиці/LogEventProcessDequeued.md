@@ -1,3 +1,4 @@
+```
 -- Create table
 
 create global temporary table MPS.TMP_EVPROC_DEQUEUED
@@ -29,3 +30,4 @@ on commit preserve rows;
 comment on table MPS.TMP_EVPROC_DEQUEUED
 
   is 'временная для процедуры EventProcessingBatchGet';
+```

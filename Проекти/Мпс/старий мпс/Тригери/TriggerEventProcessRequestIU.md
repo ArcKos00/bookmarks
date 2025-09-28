@@ -1,3 +1,4 @@
+```
 CREATE OR REPLACE TRIGGER MPS.trg_event_process_request_iu
 
   AFTER INSERT OR UPDATE ON MPS.event_process_request
@@ -243,3 +244,4 @@ BEGIN
 END trg_event_process_request_iu;
 
 /
+```

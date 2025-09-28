@@ -1,3 +1,4 @@
+```
 -- Create table
 
 create global temporary table MPS.TMP_EVPROC_EVENT
@@ -35,3 +36,4 @@ on commit preserve rows;
 comment on table MPS.TMP_EVPROC_EVENT
 
   is 'временная для процедуры(EventProcessingCheckSendingPossibility)  в пакете p_ev_proc_check_send_poss';
+```

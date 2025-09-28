@@ -1,3 +1,4 @@
+```
 -- Create table
 
 create table MPS.DELIVERY_TYPE
@@ -7,7 +8,7 @@ create table MPS.DELIVERY_TYPE
   id             NUMBER not null,
 
   dlt_name       VARCHAR2(100) not null,
-
+a
   dlt_descriptor VARCHAR2(1000) not null
 
 )
@@ -83,3 +84,4 @@ alter table MPS.DELIVERY_TYPE
     maxextents unlimited
 
   );
+```

@@ -1,3 +1,4 @@
+```
 -- Create table
 
 create table MPS.SENDER_SYSTEM
@@ -113,3 +114,4 @@ alter table MPS.SENDER_SYSTEM
     maxextents unlimited
 
   );
+```

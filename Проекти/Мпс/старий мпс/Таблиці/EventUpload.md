@@ -1,3 +1,4 @@
+```
 -- Create table
 
 create table MPS.EVENT_UPLOAD
@@ -185,3 +186,4 @@ alter table MPS.EVENT_UPLOAD
   add constraint FK_SENDER_SYSTEM foreign key (SND_SYSTEM_ID)
 
   references MPS.SENDER_SYSTEM (ID);
+```

@@ -1,3 +1,4 @@
+```
 -- Create table
 
 create global temporary table MPS.TMP_EXTERNAL_RESULT
@@ -17,3 +18,4 @@ create global temporary table MPS.TMP_EXTERNAL_RESULT
 )
 
 on commit preserve rows;
+```

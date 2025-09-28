@@ -1,3 +1,4 @@
+```
 -- Create table
 
 create table MPS.EV_OWNER_EV_TYPE
@@ -73,3 +74,4 @@ alter table MPS.EV_OWNER_EV_TYPE
   add constraint FK_EV_TYPE_ID foreign key (EV_TYPE_ID)
 
   references MPS.EVENT_TYPE (ID);
+```

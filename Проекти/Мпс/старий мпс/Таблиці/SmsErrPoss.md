@@ -1,3 +1,4 @@
+```
 -- Create table
 
 create global temporary table MPS.SMS_ERR_POSS
@@ -11,3 +12,4 @@ create global temporary table MPS.SMS_ERR_POSS
 )
 
 on commit preserve rows;
+```

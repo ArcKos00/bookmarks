@@ -1,3 +1,4 @@
+```
 CREATE OR REPLACE TRIGGER MPS.trg_event_process_status_req_uk
 
   BEFORE INSERT ON MPS.event_process_status_req
@@ -17,3 +18,4 @@ BEGIN
 END;
 
 /
+```

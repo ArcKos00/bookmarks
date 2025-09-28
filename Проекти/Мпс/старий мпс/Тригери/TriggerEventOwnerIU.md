@@ -1,3 +1,4 @@
+```
 CREATE OR REPLACE TRIGGER MPS.trg_event_owner_iu
 
   AFTER INSERT OR UPDATE ON MPS.event_owner
@@ -127,3 +128,4 @@ BEGIN
 END trg_event_handler_iu;
 
 /
+```

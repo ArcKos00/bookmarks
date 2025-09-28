@@ -1,3 +1,4 @@
+```
 CREATE OR REPLACE TRIGGER MPS.trg_event_processing_upd
 
   AFTER UPDATE OF ev_proc_req_status_id ON MPS.event_process_request
@@ -15,3 +16,4 @@ BEGIN
 END;
 
 /
+```

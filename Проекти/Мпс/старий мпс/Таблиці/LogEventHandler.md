@@ -1,3 +1,4 @@
+```
 -- Create table
 
 create table MPS.LOG_EVENT_HANDLER
@@ -193,3 +194,4 @@ alter table MPS.LOG_EVENT_HANDLER
     maxextents unlimited
 
   );
+```

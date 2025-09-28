@@ -1,3 +1,4 @@
+```
 -- Create table
 
 create table MPS.EVENT_DATA
@@ -127,3 +128,4 @@ alter table MPS.EVENT_DATA
     maxextents unlimited
 
   );
+```

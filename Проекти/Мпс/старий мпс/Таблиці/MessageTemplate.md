@@ -1,3 +1,4 @@
+```
 -- Create table
 
 create table MPS.MESSAGE_TEMPLATE
@@ -125,3 +126,4 @@ alter table MPS.MESSAGE_TEMPLATE
   add constraint FK_EV_HND foreign key (EV_HANDLER_ID)
 
   references MPS.EVENT_HANDLER (ID);
+```

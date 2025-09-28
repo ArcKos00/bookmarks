@@ -1,3 +1,4 @@
+```
 -- Create table
 
 create table MPS.EVENT_PROCESSING
@@ -147,3 +148,4 @@ alter table MPS.EVENT_PROCESSING
   add constraint FK_EVENT_PROC_HND foreign key (EV_HAND_ID)
 
   references MPS.EVENT_HANDLER (ID);
+```

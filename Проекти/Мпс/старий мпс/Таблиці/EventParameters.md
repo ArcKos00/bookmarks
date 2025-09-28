@@ -1,3 +1,4 @@
+```
 -- Create table
 
 create table MPS.EVENT_PARAMETERS
@@ -41,3 +42,4 @@ tablespace TS_MPS
 comment on table MPS.EVENT_PARAMETERS
 
   is 'sms module, name parameters';
+```

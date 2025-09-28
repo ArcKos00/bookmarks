@@ -1,3 +1,4 @@
+```
 -- Create table
 
 create table MPS.LOG_EVENT_PROCESS_REQUEST
@@ -157,3 +158,4 @@ alter table MPS.LOG_EVENT_PROCESS_REQUEST
     maxextents unlimited
 
   );
+```

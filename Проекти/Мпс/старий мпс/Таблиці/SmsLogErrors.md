@@ -1,3 +1,4 @@
+```
 -- Create table
 
 create table MPS.SMS_LOG_ERRORS
@@ -65,3 +66,4 @@ comment on column MPS.SMS_LOG_ERRORS.errorcode
 comment on column MPS.SMS_LOG_ERRORS.errormessage
 
   is 'Текст сообщения';
+```

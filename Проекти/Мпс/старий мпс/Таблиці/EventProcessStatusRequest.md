@@ -1,3 +1,4 @@
+```
 -- Create table
 
 create table MPS.EVENT_PROCESS_STATUS_REQ
@@ -83,3 +84,4 @@ alter table MPS.EVENT_PROCESS_STATUS_REQ
     maxextents unlimited
 
   );
+```

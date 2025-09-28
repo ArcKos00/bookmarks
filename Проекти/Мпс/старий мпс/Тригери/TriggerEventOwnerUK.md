@@ -1,3 +1,4 @@
+```
 CREATE OR REPLACE TRIGGER MPS.trg_event_owner_uk
 
   BEFORE INSERT ON MPS.event_owner
@@ -17,3 +18,4 @@ BEGIN
 END;
 
 /
+```

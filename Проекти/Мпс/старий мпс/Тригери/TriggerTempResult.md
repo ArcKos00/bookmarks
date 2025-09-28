@@ -1,3 +1,4 @@
+```
 CREATE OR REPLACE TRIGGER MPS.trg_tmp_result
 
   AFTER INSERT ON MPS.event_process_request
@@ -25,3 +26,4 @@ BEGIN
 END trg_tmp_result;
 
 /
+```
