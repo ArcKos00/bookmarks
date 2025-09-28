@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "26e0aba7a350b95f",
+        "id": "dda8e1ad0f5dc751",
         "type": "tabs",
         "children": [
           {
-            "id": "bae3579331ea36dd",
+            "id": "3b9a8930acb4213f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Проекти/Мпс/старий мпс/Тригери/Без назви.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Нова вкладка"
+              "title": "Без назви"
             }
           }
         ]
@@ -174,8 +178,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "136468b3b71b1b29",
+  "active": "3b9a8930acb4213f",
   "lastOpenFiles": [
+    "Проекти/Мпс/старий мпс/Тригери/TriggerEventOwnerUK.md",
+    "Проекти/Мпс/старий мпс/Тригери/Без назви.md",
+    "Проекти/Мпс/старий мпс/Тригери/TriggerEventOwnerIU.md",
+    "Проекти/Мпс/старий мпс/Тригери/TriggerEventHandlerIU.md",
+    "Проекти/Мпс/старий мпс/Тригери/TriggerEventHandelrUK.md",
     "Проекти/Мпс/старий мпс/Тригери/MPS.TRG_EVENT_HANDLER_IU.sql",
     "Проекти/Мпс/старий мпс/Тригери/MPS.TRG_TMP_RESULT.sql",
     "Проекти/Мпс/старий мпс/Тригери/MPS.TRG_LOG_EVENT_UPLOAD_UK.sql",
@@ -186,7 +195,6 @@
     "Проекти/Мпс/старий мпс/Тригери/MPS.TRG_LOG_EVENT_HANDLER_UK.sql",
     "Проекти/Мпс/старий мпс/Тригери/MPS.TRG_EVENT_UPLOAD_UK.sql",
     "Проекти/Мпс/старий мпс/Тригери/MPS.TRG_EVENT_UPLOAD_STATUS_UK.sql",
-    "Проекти/Мпс/старий мпс/Тригери/MPS.TRG_EVENT_UPLOAD_IU.sql",
     "Проекти/Мпс/старий мпс/Індекси/SenderSystem.md",
     "Проекти/Мпс/старий мпс/Індекси/EventType.md",
     "Проекти/Мпс/старий мпс/Індекси/EventParameters.md",
@@ -207,10 +215,6 @@
     "Проекти/Мпс/старий мпс/Таблиці/SmsLogErrors.md",
     "Проекти/Мпс/старий мпс/Таблиці/SmsErrPoss.md",
     "Проекти/Мпс/старий мпс/Таблиці/SenderSystem.md",
-    "Проекти/Мпс/старий мпс/Таблиці/MessageTemplate.md",
-    "Проекти/Мпс/старий мпс/Таблиці/EventUploadStatus.md",
-    "Проекти/Мпс/старий мпс/Таблиці/EventType.md",
-    "Проекти/Мпс/старий мпс/Таблиці/EventProcessStatusRequest.md",
-    "Проекти/Мпс/старий мпс/Таблиці/EventProcessStatus.md"
+    "Проекти/Мпс/старий мпс/Таблиці/MessageTemplate.md"
   ]
 }
