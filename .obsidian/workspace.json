@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проекти/Мпс/Таблиці старі/EventType.md",
+                "file": "Проекти/Мпс/Таблиці старі/SmsLogErrors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EventType"
+              "title": "SmsLogErrors"
             }
           }
         ]
@@ -180,8 +180,13 @@
   },
   "active": "ae5ecd0cbfc9c74f",
   "lastOpenFiles": [
-    "Проекти/Мпс/Таблиці старі/EventProcessStatusRequest.md",
+    "Проекти/Мпс/Таблиці старі/SmsErrPoss.md",
+    "Проекти/Мпс/Таблиці старі/SmsLogErrors.md",
+    "Проекти/Мпс/Таблиці старі/SenderSystem.md",
+    "Проекти/Мпс/Таблиці старі/MessageTemplate.md",
+    "Проекти/Мпс/Таблиці старі/EventUploadStatus.md",
     "Проекти/Мпс/Таблиці старі/EventType.md",
+    "Проекти/Мпс/Таблиці старі/EventProcessStatusRequest.md",
     "Проекти/Мпс/Таблиці старі/EventProcessStatus.md",
     "Проекти/Мпс/Таблиці старі/EventParameters.md",
     "Проекти/Мпс/Таблиці старі/EventOwner.md",
@@ -210,11 +215,6 @@
     "~WRD3752.tmp",
     "~WRL0003.tmp",
     "~WRD0002.tmp",
-    "Синхронізація obsidian через github.md",
-    "~WRD1432.tmp",
-    "Проекти/Автоматизація розшукових/Технічні моменти/Нечіткий пошук засобами SQLite.md",
-    "Проекти/Автоматизація розшукових/Технічні моменти/Технічні моменти.md",
-    "Проекти/Автоматизація розшукових/Технічні моменти/Implementing Fuzzy Search in C .NET with the FuzzyString Library.md",
-    "Проекти/Автоматизація розшукових/Переваги web.md"
+    "~WRD1432.tmp"
   ]
 }
