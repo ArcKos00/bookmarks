@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проекти/Мпс/Таблиці старі/SmsLogErrors.md",
+                "file": "Проекти/Мпс/Таблиці старі/TempInserted.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SmsLogErrors"
+              "title": "TempInserted"
             }
           }
         ]
@@ -180,8 +180,19 @@
   },
   "active": "ae5ecd0cbfc9c74f",
   "lastOpenFiles": [
-    "Проекти/Мпс/Таблиці старі/SmsErrPoss.md",
+    "Проекти/Мпс/Таблиці старі/TempExternalResult.md",
+    "Проекти/Мпс/Таблиці старі/TempInserted.md",
+    "Проекти/Мпс/Таблиці старі/TempEventProcessResult.md",
+    "Проекти/Мпс/Таблиці старі/TempEventProcessEvent.md",
+    "Проекти/Мпс/Таблиці старі/LogEventProcessDequeued.md",
+    "Проекти/Мпс/Таблиці старі/LogEventUpload.md",
+    "Проекти/Мпс/Таблиці старі/LogEventType.md",
+    "Проекти/Мпс/Таблиці старі/LogEventProcessing.md",
+    "Проекти/Мпс/Таблиці старі/LogEventProcessRequest.md",
+    "Проекти/Мпс/Таблиці старі/LogEventOwner.md",
+    "Проекти/Мпс/Таблиці старі/LogEventHandler.md",
     "Проекти/Мпс/Таблиці старі/SmsLogErrors.md",
+    "Проекти/Мпс/Таблиці старі/SmsErrPoss.md",
     "Проекти/Мпс/Таблиці старі/SenderSystem.md",
     "Проекти/Мпс/Таблиці старі/MessageTemplate.md",
     "Проекти/Мпс/Таблиці старі/EventUploadStatus.md",
@@ -195,20 +206,9 @@
     "Проекти/Мпс/Таблиці старі/OwnerEventType.md",
     "Проекти/Мпс/Таблиці старі/EventProcessRequest.md",
     "Проекти/Мпс/Таблиці старі/EventProcessing.md",
-    "Проекти/Мпс/Таблиці старі/EventUpload.md",
-    "Проекти/Мпс/Таблиці старі/EventHandler.md",
     "Проекти/Мпс/Таблиці старі",
-    "Проекти/Мпс/Етапи.md",
-    "Проекти/Мпс/Ключові моменти.md",
-    "^0b650e.md",
-    "Проекти/Мпс/Ідея.md",
-    "Фільми.md",
     "Проекти/Мпс",
-    "Без назви.md",
-    "Задачі.md",
-    "Книжки.md",
     "~$порт для виїзду з гарнізону ЛЕКЛЕРК.docx",
-    "Рапорт.md",
     "~WRD3045.tmp",
     "~WRD2964.tmp",
     "~WRL3771.tmp",
