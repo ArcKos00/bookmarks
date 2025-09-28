@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проекти/Мпс/Таблиці старі/EventProcessStatus.md",
+                "file": "Проекти/Мпс/Таблиці старі/EventType.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EventProcessStatus"
+              "title": "EventType"
             }
           }
         ]
@@ -180,8 +180,10 @@
   },
   "active": "ae5ecd0cbfc9c74f",
   "lastOpenFiles": [
-    "Проекти/Мпс/Таблиці старі/EventParameters.md",
+    "Проекти/Мпс/Таблиці старі/EventProcessStatusRequest.md",
+    "Проекти/Мпс/Таблиці старі/EventType.md",
     "Проекти/Мпс/Таблиці старі/EventProcessStatus.md",
+    "Проекти/Мпс/Таблиці старі/EventParameters.md",
     "Проекти/Мпс/Таблиці старі/EventOwner.md",
     "Проекти/Мпс/Таблиці старі/EventData.md",
     "Проекти/Мпс/Таблиці старі/DeliveryType.md",
@@ -213,8 +215,6 @@
     "Проекти/Автоматизація розшукових/Технічні моменти/Нечіткий пошук засобами SQLite.md",
     "Проекти/Автоматизація розшукових/Технічні моменти/Технічні моменти.md",
     "Проекти/Автоматизація розшукових/Технічні моменти/Implementing Fuzzy Search in C .NET with the FuzzyString Library.md",
-    "Проекти/Автоматизація розшукових/Переваги web.md",
-    "Проекти/Військова служба/Порядок денний.md",
-    "Архів/Серіали.md"
+    "Проекти/Автоматизація розшукових/Переваги web.md"
   ]
 }
