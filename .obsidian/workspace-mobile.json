@@ -197,7 +197,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Сзч.md",
+            "file": "Проекти/Мпс/Опис зверху.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -252,7 +252,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16ec72950307c03b",
+  "active": "b07dfb9bdf48d13f",
   "lastOpenFiles": [
     "Проекти/Мпс/Ключові моменти.md",
     "Проекти/Мпс/Опис зверху.md",
