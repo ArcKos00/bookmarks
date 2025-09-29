@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проекти/Мпс/Ключові моменти.md",
+                "file": "Проекти/Мпс/Опис зверху.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ключові моменти"
+              "title": "Опис зверху"
             }
           }
         ],
@@ -252,8 +252,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b07dfb9bdf48d13f",
+  "active": "16ec72950307c03b",
   "lastOpenFiles": [
+    "Проекти/Мпс/Ключові моменти.md",
+    "Проекти/Мпс/Опис зверху.md",
     "Проекти/Мпс/старий мпс/Старі Типи.md",
     "Проекти/Мпс/старий мпс/Модуль завантаження по ОДІ сценарію.md",
     "Проекти/Мпс/Етапи.md",
@@ -280,8 +282,6 @@
     "Проекти/Мпс/старий мпс/Таблиці/LogEventProcessDequeued.md",
     "Проекти/Мпс/старий мпс/Таблиці/LogEventProcessRequest.md",
     "Проекти/Мпс/старий мпс/Таблиці/EventProcessStatusRequest.md",
-    "Проекти/Мпс/старий мпс/Таблиці/EventProcessRequest.md",
-    "Проекти/Мпс/старий мпс/Таблиці/TempInserted.md",
     "Проекти/Мпс/старий мпс/Таблиці",
     "Проекти/Мпс/старий мпс/Тригери/MPS.TRG_LOG_EVENT_PROCESS_REQUEST_UK.sql",
     "Проекти/Мпс/старий мпс/Тригери/MPS.TRG_EVENT_TYPE_IU.sql",
