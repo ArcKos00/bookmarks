@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проекти/Мпс/Етапи.md",
+                "file": "Проекти/Мпс/старий мпс/Таблиці/EventHandler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Етапи"
+              "title": "EventHandler"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 415.5
   },
   "right": {
     "id": "e8afa75081f7e6cb",
@@ -180,6 +180,11 @@
   },
   "active": "df84e950def39448",
   "lastOpenFiles": [
+    "Проекти/Мпс/старий мпс/Таблиці/EventData.md",
+    "Проекти/Мпс/старий мпс/Таблиці/DeliveryType.md",
+    "Проекти/Мпс/старий мпс/Таблиці/LogEventProcessing.md",
+    "Проекти/Мпс/старий мпс/Таблиці/TempInserted.md",
+    "Проекти/Мпс/Етапи.md",
     "Проекти/Мпс/старий мпс/Хендлери.md",
     "Проекти/Мпс/старий мпс/Старі Типи.md",
     "Проекти/Мпс/старий мпс/Модуль завантаження по ОДІ сценарію.md",
@@ -201,11 +206,6 @@
     "Проекти/Мпс/старий мпс/Тригери/TriggerEventProcessRequestIU.md",
     "Проекти/Мпс/старий мпс/Тригери/TriggerEventProcessingUPD.md",
     "Проекти/Мпс/старий мпс/Тригери/TriggerEventProcessingUK.md",
-    "Проекти/Мпс/старий мпс/Тригери/TriggerEventProcessingIU.md",
-    "Проекти/Мпс/старий мпс/Тригери/TriggerEventOwnerUK.md",
-    "Проекти/Мпс/старий мпс/Тригери/TriggerEventOwnerIU.md",
-    "Проекти/Мпс/старий мпс/Тригери/TriggerEventHandlerIU.md",
-    "Проекти/Мпс/старий мпс/Тригери/TriggerEventHandelrUK.md",
     "Проекти/Мпс/старий мпс/Старі пакети Оракл",
     "Проекти/Мпс/старий мпс/Тригери/Без назви",
     "Проекти/Мпс/старий мпс/Тригери/MPS.TRG_EVENT_HANDLER_IU.sql",
